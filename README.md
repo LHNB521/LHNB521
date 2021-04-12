@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning software development
 - 👯 
 - 🤔 
-- 💬 My blog：https://lh521.top/  and   https://lh521.asia/
+- 💬 My blog：https://lh521.top  and   https://lh521.tech
 - 📫 How to reach me: QQ1767359165
 - 😄 : positive
 - ⚡ Fun fact: hhhhhh
