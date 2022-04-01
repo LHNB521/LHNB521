@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 ## About me
   come on!
 
-- 🌱 I’m currently learning software development
-- 👯 
-- 🤔 
-- 💬 My blog：https://lh521.top  and   https://lh521.tech
+- 🌱 I’m currently learning software development 
+- 💬 My blog：www.lh521.top
 - 📫 How to reach me: QQ1767359165
 - 😄 : positive
 - ⚡ Fun fact: hhhhhh
