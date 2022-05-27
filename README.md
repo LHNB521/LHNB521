@@ -3,7 +3,6 @@
 <br />
 
 我是[长江小浩](https://www.yuque.com/lhao)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">，是一名前端开发工程师。
-<img align="right" alt="GIF" src="./assets/code.gif" width="430" height="100%" />
 
 **关于我**
 
@@ -25,3 +24,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+<img align="left" alt="GIF" src="./assets/code.gif" width="430" height="100%" />
