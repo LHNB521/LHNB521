@@ -12,7 +12,7 @@
 
 - 📫 我的邮箱 [1767359165@qq.com](mailto:1767359165@qq.com)
 
-- 📚 我的博客 [长江小浩](www.lh521.top) And [一行代码](www.linecode.top)
+- 📚 我的博客 [长江小浩](lh521.top) And [一行代码](linecode.top)
 
 
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LHNB521&hide=contribs,issues&show_icons=trueshow_icons=true&theme=radical)](https://github.com/LHNB521) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHNB521&theme=radical&layout=compact)](https://github.com/LHNB521) |
