@@ -3,7 +3,7 @@
 <br />
 <img align="right" width="50%" src="https://metrics.lecoq.io/LHNB521?template=terminal&base.indepth=false&config.timezone=Asia%2FShanghai" />
 
-**我是[长江小浩](https://yuque.com/lhao)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">是一名前端开发工程师**
+**我是[长江小浩](https://yuque.com/lhao)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25%">是一名前端开发工程师**
 
 ### 🌞 关于我 | About Me
 
