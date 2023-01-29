@@ -29,9 +29,6 @@
 <code><img height="20" src="./assets/idea.svg"></code>
 <code><img height="20" src="./assets/ws.png"></code>
 <code><img height="20" src="./assets/git.png"></code>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/LHNB521/count.svg" />
-</p>
+
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LHNB521&hide=contribs,issues&show_icons=trueshow_icons=true&theme=radical)](https://github.com/LHNB521) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHNB521&theme=radical&layout=compact)](https://github.com/LHNB521) |
 | ------------- | ------------- | 
