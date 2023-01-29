@@ -1,7 +1,7 @@
 <p align="center"><a href="http://linecode.top"><img width="100%" height="180" src="./assets/top.png" /></a></p>
 
 <br />
-<img align="right" src="https://metrics.lecoq.io/LHNB521?template=terminal&base.indepth=false&config.timezone=Asia%2FShanghai" />
+<img align="right" src="https://metrics.lecoq.io/LHNB521?template=terminal&base.indepth=false&config.timezone=Asia%2FShanghai" width="50%"/>
 
 **我是[长江小浩](https://yuque.com/lhao)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">是一名前端开发工程师**
 
