@@ -1,7 +1,3 @@
-<p align="center"><a href="http://linecode.top"><img width="100%" height="140" src="./assets/top.png" /></a></p>
-
-<br />
-<img align="right" src="https://metrics.lecoq.io/LHNB521?template=terminal&base.indepth=false&config.timezone=Asia%2FShanghai" width="50%"/>
 
 **我是[长江小浩](https://yuque.com/lhao)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">是一名前端开发工程师**
 
@@ -9,26 +5,15 @@
 
 - 💼 前端学习笔记 [语雀](https://yuque.com/lhao)
 
-- ❤️ 喜欢探索未知世界
-
-- 🎁 喜欢专研奇怪知识
-
 - 📫 邮箱 [1767359165@qq.com](mailto:1767359165@qq.com)
 
-- 📚 我的博客 [长江小浩](http://lh521.top)
-
-- 💻 我的博客 [一行代码](http://linecode.top)
+- 💻 我的公众号 [前端大大大]
 
 ### 💡 技术栈 | Tech Stack
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-### 🔨 工具 | Tool
-<code><img height="20" src="./assets/vs.jpg"></code>
-<code><img height="20" src="./assets/idea.svg"></code>
-<code><img height="20" src="./assets/ws.png"></code>
-<code><img height="20" src="./assets/git.png"></code>
 
 <p align="center"> 
   Visitor count<br>
