@@ -75,6 +75,8 @@
 
 - ✨ 我在我的语雀文档上分享我的学习和爱好 🔜<a href="https://yuque.com/lhao" target="_blank">语雀·lhao</a>
 
+<p>&emsp;&emsp;Go be a great engineer. We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
+
 </td></tr>
 
 <!-- 工作经历 -->
@@ -86,6 +88,8 @@
 - [中国四维测绘有限公司](https://www.chinasiwei.com/) &emsp; 📌 2022-10 —— 至今
 
   - 工作岗位：WebGis
+
+<div>&nbsp;</div>
 
 </td></tr>
 </table>
