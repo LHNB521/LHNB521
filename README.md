@@ -39,15 +39,18 @@
 
   <!-- 活跃折线图 -->
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LHNB521&theme=xcode&bg_color=FF000000&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LHNB521&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LHNB521&theme=xcode&bg_color=FF000000&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LHNB521&theme=xcode&bg_color=FF000000&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LHNB521&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LHNB521&theme=xcode&bg_color=FF000000&hide_border=true" />
   </picture>
 
   <div>&nbsp;</div>
 
   <!-- GitHub 奖杯🏆 -->
-  <div><img src="https://github-profile-trophy.vercel.app/?username=LHNB521&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=LHNB521&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+    <br/>
+  </div>
 
 </div>
 
@@ -62,7 +65,7 @@
 ### 🤺 About Me
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/LHNB521/LHNB521/assets/images/computer.png" />
 
-**我是[长江小浩](https://yuque.com/lhao)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">是一名前端开发工程师**
+**我是[长江小浩](https://yuque.com/lhao)是一名前端开发工程师**
 
 - 🌱 主要从事前端开发工作，熟悉PC端、移动端以及WebGis开发内容。
 
@@ -83,9 +86,6 @@
 - [中国四维测绘有限公司](https://www.chinasiwei.com/) &emsp; 📌 2022-10 —— 至今
 
   - 工作岗位：WebGis
-
-<div>&nbsp;</div>
-<div>&nbsp;</div>
 
 </td></tr>
 </table>
