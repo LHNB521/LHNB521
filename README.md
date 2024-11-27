@@ -9,10 +9,16 @@
 
 - 💻 我的公众号 [前端大大大]
 
-<p align="center"> 
+<p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/LHNB521/count.svg" />
 </p>
 
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LHNB521&hide=contribs,issues&show_icons=trueshow_icons=true&theme=radical)](https://github.com/LHNB521) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHNB521&theme=radical&layout=compact)](https://github.com/LHNB521) |
-| ------------- | ------------- | 
+| ------------- | ------------- |
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LHNB521/LHNB521/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LHNB521/LHNB521/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LHNB521/LHNB521/output/github-contribution-grid-snake.svg">
+</picture>
