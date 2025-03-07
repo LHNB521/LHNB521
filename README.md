@@ -85,7 +85,7 @@
 ### 🏭 Work Experience
 <img align="right" width="75" src="https://cdn.jsdelivr.net/gh/LHNB521/LHNB521/assets/images/siwei.png" />
 
-- [中国四维测绘有限公司](https://www.chinasiwei.com/) &emsp; 📌 2022-10 —— 至今
+- [航天集团](https://www.chinasiwei.com/) &emsp; 📌 2022-10 —— 至今
 
   - 工作岗位：WebGis开发
 
