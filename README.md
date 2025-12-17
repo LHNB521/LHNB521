@@ -143,11 +143,11 @@
 </div>
 
 <!-- profile-3d-contrib 3D 贡献图-->
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LHNB521/LHNB521/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/LHNB521/LHNB521/profile-3d-contrib/profile-gitblock.svg" />
   <img src="https://cdn.jsdelivr.net/gh/LHNB521/LHNB521/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
+</picture> -->
 
 
 <div align="center">
