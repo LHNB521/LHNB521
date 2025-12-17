@@ -105,9 +105,9 @@
     <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/LHNB521/LHNB521/assets/images/right.png" />
     <div>&nbsp;</div>
     <!-- metrics -->
-    <img width="150" src="https://cdn.jsdelivr.net/gh/LHNB521/LHNB521/assets/images/cxyduck.gif"/>
+    <!-- <img width="150" src="https://cdn.jsdelivr.net/gh/LHNB521/LHNB521/assets/images/cxyduck.gif"/> -->
     <img src="/github-metrics.svg">
-    <img width="150" src="https://cdn.jsdelivr.net/gh/LHNB521/LHNB521/assets/images/cxyduck.gif">
+    <!-- <img width="150" src="https://cdn.jsdelivr.net/gh/LHNB521/LHNB521/assets/images/cxyduck.gif"> -->
 </div>
 
 ### 🧰 Tools:
@@ -150,7 +150,7 @@
 </picture> -->
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/LHNB521/LHNB521/assets/images/icon.png" />
-</div>
+</div> -->
 
